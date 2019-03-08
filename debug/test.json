@@ -1,0 +1,69 @@
+{
+	"skillId": "355865013",
+	"participants": [
+		{
+			"id": "77015a2c5529f2914557159b0c739f0d78d6b15a0b8d01708fd440e6039774a3",
+			"role": "CONSUMER"
+		}
+	],
+	"dialogs": [
+		{
+			"dialogId": "c066d602-773f-490a-94b5-8ce6eb57e84c",
+			"participantsDetails": [
+				{
+					"id": "77015a2c5529f2914557159b0c739f0d78d6b15a0b8d01708fd440e6039774a3",
+					"role": "CONSUMER"
+				}
+			],
+			"dialogType": "MAIN",
+			"channelType": "MESSAGING",
+			"state": "OPEN",
+			"creationTs": 1550851976434,
+			"metaDataLastUpdateTs": 1550851976434
+		}
+	],
+	"state": "OPEN",
+	"stage": "OPEN",
+	"startTs": 1550851976434,
+	"metaDataLastUpdateTs": 1550851976434,
+	"firstConversation": false,
+	"ttr": {
+		"ttrType": "NORMAL",
+		"value": 900
+	},
+	"campaignInfo": {
+		"campaignId": 6722513,
+		"engagementId": 552184713
+	},
+	"context": {
+		"type": "SharkContext",
+		"lang": "en-US",
+		"clientProperties": {
+			"type": ".ClientProperties",
+			"appId": "webAsync",
+			"ipAddress": "172.26.138.172",
+			"deviceFamily": "DESKTOP",
+			"os": "WINDOWS",
+			"osVersion": "10.0",
+			"integration": "WEB_SDK",
+			"integrationVersion": "3.0.17",
+			"browser": "CHROME",
+			"browserVersion": "72.0.3626.109",
+			"features": [
+				"PHOTO_SHARING",
+				"CO_BROWSE",
+				"QUICK_REPLIES",
+				"AUTO_MESSAGES",
+				"MULTI_DIALOG",
+				"RICH_CONTENT"
+			]
+		},
+		"visitorId": "MzMzM4ZDYwN2U4NTMyMGVi",
+		"sessionId": "x5wXwLteS7uR1WyRU9YUXA",
+		"interactionContextId": "13"
+	},
+	"conversationHandlerDetails": {
+		"accountId": "90842437",
+		"skillId": "355865013"
+	}
+}

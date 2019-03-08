@@ -1,0 +1,93 @@
+{
+	"skillId": "1273423214",
+	"participants": [
+		{
+			"id": "d6469d3b-8cab-5d61-bd5b-181fcda17eff",
+			"role": "CONTROLLER"
+		},
+		{
+			"id": "d50740cd0276975d02ca4d8268f0f0bd59f85b35edcbec48305387c018c317b8",
+			"role": "CONSUMER"
+		},
+		{
+			"id": "5a263a1f-9551-5d2a-ada4-14df68ea8ae6",
+			"role": "READER"
+		},
+		{
+			"id": "59150650-ce65-553b-baa4-41dcc416af00",
+			"role": "READER"
+		}
+	],
+	"dialogs": [
+		{
+			"dialogId": "5c76fbd0-9e20-4a01-8d59-b1ba193b6593",
+			"participantsDetails": [
+				{
+					"id": "d50740cd0276975d02ca4d8268f0f0bd59f85b35edcbec48305387c018c317b8",
+					"role": "CONSUMER"
+				},
+				{
+					"id": "78100234.326125414",
+					"role": "CONTROLLER"
+				},
+				{
+					"id": "78100234.1523873414",
+					"role": "READER"
+				},
+				{
+					"id": "78100234.1346215414",
+					"role": "READER"
+				}
+			],
+			"dialogType": "MAIN",
+			"channelType": "MESSAGING",
+			"state": "OPEN",
+			"creationTs": 1552001366617,
+			"metaDataLastUpdateTs": 1552001366617
+		}
+	],
+	"state": "OPEN",
+	"stage": "OPEN",
+	"startTs": 1552001366617,
+	"metaDataLastUpdateTs": 1552007253626,
+	"firstConversation": true,
+	"ttr": {
+		"ttrType": "PRIORITIZED",
+		"value": 900
+	},
+	"delay": {
+		"type": "NIGHT",
+		"tillWhen": 1518541219000
+	},
+	"campaignInfo": {
+		"campaignId": 1273434114,
+		"engagementId": 1332076214
+	},
+	"context": {
+		"type": "SharkContext",
+		"lang": "en-US",
+		"clientProperties": {
+			"type": ".ClientProperties",
+			"appId": "webAsync",
+			"ipAddress": "172.22.137.131",
+			"deviceFamily": "DESKTOP",
+			"os": "WINDOWS",
+			"osVersion": "10.0",
+			"integration": "WEB_SDK",
+			"integrationVersion": "3.0.17",
+			"browser": "CHROME",
+			"browserVersion": "72.0.3626.121",
+			"features": [
+				"PHOTO_SHARING",
+				"CO_BROWSE",
+				"QUICK_REPLIES",
+				"AUTO_MESSAGES",
+				"MULTI_DIALOG",
+				"RICH_CONTENT"
+			]
+		},
+		"visitorId": "E3MzZjZDFkOWE3N2U1Nzgz",
+		"sessionId": "fy3UPVRNThaPUS29OQ57SQ",
+		"interactionContextId": "1"
+	}
+}

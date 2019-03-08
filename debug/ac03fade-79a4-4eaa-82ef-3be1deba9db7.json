@@ -1,0 +1,68 @@
+{
+	"skillId": "624869714",
+	"participants": [
+		{
+			"id": "d6469d3b-8cab-5d61-bd5b-181fcda17eff",
+			"role": "CONTROLLER"
+		},
+		{
+			"id": "7faf1c43-ebd4-5a1b-ad2b-f1c89d37efe2",
+			"role": "ASSIGNED_AGENT"
+		},
+		{
+			"id": "c94ee952308bd9e415c81a6f42b12afe6c013aaf2f837e2804b3b53a121ff995",
+			"role": "CONSUMER"
+		}
+	],
+	"dialogs": [
+		{
+			"dialogId": "ac03fade-79a4-4eaa-82ef-3be1deba9db7",
+			"participantsDetails": [
+				{
+					"id": "c94ee952308bd9e415c81a6f42b12afe6c013aaf2f837e2804b3b53a121ff995",
+					"role": "CONSUMER"
+				},
+				{
+					"id": "78100234.624880314",
+					"role": "ASSIGNED_AGENT"
+				},
+				{
+					"id": "78100234.326125414",
+					"role": "CONTROLLER"
+				}
+			],
+			"dialogType": "MAIN",
+			"channelType": "MESSAGING",
+			"state": "OPEN",
+			"creationTs": 1552047713499,
+			"metaDataLastUpdateTs": 1552047713499
+		}
+	],
+	"state": "OPEN",
+	"stage": "OPEN",
+	"startTs": 1552047713499,
+	"metaDataLastUpdateTs": 1552047714369,
+	"firstConversation": false,
+	"ttr": {
+		"ttrType": "NORMAL",
+		"value": 900
+	},
+	"delay": {
+		"type": "NIGHT",
+		"tillWhen": 1518541219000
+	},
+	"context": {
+		"type": "SMSContext",
+		"clientProperties": {
+			"type": ".ClientProperties",
+			"appId": "usms",
+			"ipAddress": "172.22.137.94",
+			"features": [
+				"QUICK_REPLIES",
+				"AUTO_MESSAGES",
+				"MULTI_DIALOG",
+				"RICH_CONTENT"
+			]
+		}
+	}
+}

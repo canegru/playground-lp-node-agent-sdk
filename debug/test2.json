@@ -1,0 +1,11 @@
+{
+    "client_name": "Please add a different name",
+    "description": "This is a description",
+    "enabled": true,
+    "grant_types": [
+      "client_credentials"
+    ],
+    "scope": "msg.consumer",
+    "logo_uri": "/src/modules/campaigns/assets/img/software/Mobile-App.png",
+    "capabilities": {}
+  }

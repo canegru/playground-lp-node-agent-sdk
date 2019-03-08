@@ -1,0 +1,60 @@
+{
+	"skillId": "624870214",
+	"participants": [
+		{
+			"id": "d6469d3b-8cab-5d61-bd5b-181fcda17eff",
+			"role": "CONTROLLER"
+		},
+		{
+			"id": "8cac36d513b496d66ffe3e60368df4683e7e22557189f99fb943e28125913c74",
+			"role": "CONSUMER"
+		}
+	],
+	"dialogs": [
+		{
+			"dialogId": "e51331a3-098e-4640-b541-bee3620c15fb",
+			"participantsDetails": [
+				{
+					"id": "8cac36d513b496d66ffe3e60368df4683e7e22557189f99fb943e28125913c74",
+					"role": "CONSUMER"
+				},
+				{
+					"id": "78100234.326125414",
+					"role": "CONTROLLER"
+				}
+			],
+			"dialogType": "MAIN",
+			"channelType": "MESSAGING",
+			"state": "OPEN",
+			"creationTs": 1552047317588,
+			"metaDataLastUpdateTs": 1552047317588
+		}
+	],
+	"state": "OPEN",
+	"stage": "OPEN",
+	"startTs": 1552047317588,
+	"metaDataLastUpdateTs": 1552047360185,
+	"firstConversation": false,
+	"ttr": {
+		"ttrType": "NORMAL",
+		"value": 900
+	},
+	"delay": {
+		"type": "NIGHT",
+		"tillWhen": 1518541219000
+	},
+	"context": {
+		"type": "SMSContext",
+		"clientProperties": {
+			"type": ".ClientProperties",
+			"appId": "usms",
+			"ipAddress": "172.22.137.94",
+			"features": [
+				"QUICK_REPLIES",
+				"AUTO_MESSAGES",
+				"MULTI_DIALOG",
+				"RICH_CONTENT"
+			]
+		}
+	}
+}
